@@ -1,0 +1,19 @@
+{
+  "name": "clima-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "axios": "0.25.0",
+    "colors": "1.4.0",
+    "dotenv": "^14.2.0",
+    "inquirer": "8.2.0",
+    "uuid": "8.3.2"
+  },
+  "license": "Mit"
+}
